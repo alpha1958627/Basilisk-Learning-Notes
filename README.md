@@ -23,7 +23,7 @@ Below is a categorized collection of learning resources for Basilisk, organized 
 
 Resource | Description | Link
 -------- | ----------- | ----
-[Introduction](https://mp.weixin.qq.com/s?__biz=MzIxNzY5ODIxMA==&mid=2247498515&idx=1&sn=38a5f014aafa04d0d77eb74e4a0c161e&scene=21&poc_token=HFG_w2ij3G-2_BNcIl--qmoEos3DLSjHOBTbrj8d)| A brief introduction to the Basilisk in Chinese. | [![](https://github.com/alpha1958627/Basilisk-Learning-Notes/blob/main/assets/wechat.png)](https://mp.weixin.qq.com/s?__biz=MzIxNzY5ODIxMA==&mid=2247498515&idx=1&sn=38a5f014aafa04d0d77eb74e4a0c161e&scene=21&poc_token=HFG_w2ij3G-2_BNcIl--qmoEos3DLSjHOBTbrj8d)
+[Introduction](https://mp.weixin.qq.com/s?__biz=MzIxNzY5ODIxMA==&mid=2247498515&idx=1&sn=38a5f014aafa04d0d77eb74e4a0c161e&scene=21&poc_token=HFG_w2ij3G-2_BNcIl--qmoEos3DLSjHOBTbrj8d)| A brief introduction to the Basilisk in Chinese. | [![](https://github.com/alpha1958627/Basilisk-Learning-Notes/blob/main/assets/wechat_logo.png)](https://mp.weixin.qq.com/s?__biz=MzIxNzY5ODIxMA==&mid=2247498515&idx=1&sn=38a5f014aafa04d0d77eb74e4a0c161e&scene=21&poc_token=HFG_w2ij3G-2_BNcIl--qmoEos3DLSjHOBTbrj8d)
 [Basilisk Tutorials](http://www.basilisk.fr/Tutorial) | Official introductory tutorial series | [http://www.basilisk.fr/Tutorial](http://www.basilisk.fr/Tutorial)
 [Basilisk jmf tutorial](http://basilisk.fr/sandbox/jmf/tutorial) | jmf tutorial | [http://basilisk.fr/sandbox/jmf/tutorial](http://basilisk.fr/sandbox/jmf/tutorial)
 [Basilisk Documentation](https://github.com/Langford-H/Basilisk-Documentation) | Documentation of algorithm exploration and implementation details for the Basilisk by Haochen Huang | [(https://github.com/Langford-H/Basilisk-Documentation](https://github.com/Langford-H/Basilisk-Documentation)
