@@ -24,8 +24,8 @@ Below is a categorized collection of learning resources for Basilisk, organized 
 Resource | Description | Link
 -------- | ----------- | ----
 [Basilisk Tutorials](http://www.basilisk.fr/Tutorial) | Official introductory tutorial series | [http://www.basilisk.fr/Tutorial](http://www.basilisk.fr/Tutorial)
-[Basilisk jmf tutorial](https://basilisk.fr/docs) | jmf tutorial | [http://basilisk.fr/sandbox/jmf/tutorial](http://basilisk.fr/sandbox/jmf/tutorial)
-[Basilisk Documentation](https://github.com/Langford-H/Basilisk-Documentation) | A documentation for the PDE solver Basilisk written by Haochen Huang. | [https://basilisk.fr/quickstart](https://github.com/Langford-H/Basilisk-Documentation)
+[Basilisk jmf tutorial](http://basilisk.fr/sandbox/jmf/tutorial) | jmf tutorial | [http://basilisk.fr/sandbox/jmf/tutorial](http://basilisk.fr/sandbox/jmf/tutorial)
+[Basilisk Documentation](https://github.com/Langford-H/Basilisk-Documentation) | Documentation of algorithm exploration and implementation details for the Basilisk by Haochen Huang | [(https://github.com/Langford-H/Basilisk-Documentation](https://github.com/Langford-H/Basilisk-Documentation)
 [Basilisk 101](https://blogs.comphy-lab.org/Lecture-Notes/Basilisk101/0-README) | Detailed explanations of fundamental concepts, core modules, and simple simulation examples—ideal for absolute beginners. | [https://blogs.comphy-lab.org/Lecture-Notes/Basilisk101/0-README](https://blogs.comphy-lab.org/Lecture-Notes/Basilisk101/0-README)
 
 
